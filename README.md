@@ -1,9 +1,9 @@
 <p align="center">
 	<img src="images/banner.png"/>
 	<br><br>
-	<a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Gamedev"/></a>
-    <a><img src="https://img.shields.io/github/license/FronkonGames/Awesome-Gamedev" alt="License"/></a>	
-	<a href="http://github.com/FronkonGames/Awesome-Gamedev/actions?workflow=Check+Links"><img src="https://github.com/carlosperate/awesome-microbit/workflows/Check%20Links/badge.svg" alt="Check Links"/></a>
+	<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Gamedev"/>
+    <img src="https://img.shields.io/github/license/FronkonGames/Awesome-Gamedev" alt="License"/>
+	<img src="https://github.com/FronkonGames/Awesome-Gamedev/actions/workflows/CheckLinks.yml/badge.svg" alt="Check Links"/>
 </p>
 
 A curated collection of resources to gamedev. To add, remove or change things on the list, please create a pull request. Maintained by [FronkonGames](https://github.com/FronkonGames).
@@ -36,8 +36,7 @@ A curated collection of resources to gamedev. To add, remove or change things on
 
 ## **Art**
 
-* [Lots of icons from iOS apps](http://iosicongallery.com).
-* [Color theory and color palette editors](http://www.pixelprospector.com/color-theory-and-color-palette-editors).
+* [Lots of icons from iOS apps](https://iosicongallery.com/).
 * [A gallery of interesting visual styles used in games](http://videogameartstyles.tumblr.com/).
 * [Futuristic interfaces from movies and videogames](http://futureinterface.tumblr.com/).
 * [Videogames logos](http://gamelogos.tumblr.com/).
@@ -47,8 +46,7 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [How to Pixel Art](https://www.youtube.com/playlist?list=PLG0tvJ_jRDIVqRSjelh_uyuZpREN-T4ZF) 📺.
 * [60 of the finest tutorials and resources about Pixel Art](https://www.reddit.com/r/gamedev/comments/2hdsdi/everything_you_need_to_know_about_pixel_art_60_of).
 * [Draw a cartoon monster character in Photoshop](http://design.tutsplus.com/tutorials/draw-a-cartoon-monster-character-in-photoshop--psd-18136).
-* [Best practices for Physically Based Content creation in Unity](https://www.youtube.com/watch?v=OeEYEUCa4tI) 📺.
-* [Pixel Art Blender tutorial](https://www.youtube.com/watch?v=Z3yOCJRaUxc) 📺.
++* [Pixel Art Blender tutorial](https://www.youtube.com/watch?v=Z3yOCJRaUxc) 📺.
 * [How to do Pixel Art](https://www.youtube.com/playlist?list=PLAdAph7mbAcZF43uD0YRlo8lpF3L61Aal) 📺.
 * [Understanding color](https://www.youtube.com/watch?v=Qj1FK8n7WgY) 📺.
 * [PBR texture conversion](http://www.marmoset.co/toolbag/learn/pbr-conversion).
@@ -111,7 +109,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Creating the striking pixel art of Crawl](http://www.gamasutra.com/view/news/300004/Game_Design_Deep_Dive_Creating_the_striking_pixel_art_of_Crawl.php).
 * [Creation facial 2D animation for games](https://80.lv/articles/creation-facial-2d-animation-for-games/).
 * [Simple stylized content for Unity games](https://80.lv/articles/simple-stylized-content-for-unity-games/).
-* [GPU performance for game artists](http://www.fragmentbuffer.com/gpu-performance-for-game-artists/).
 * [Create a forest in UE4 in one hour](https://www.youtube.com/watch?v=FzoY062kY1s) 📺.
 * [Creating pixel art in Blender](http://www.javin-inc.com/blenderpixel/).
 * [25 official beginner Blender tutorial videos.](https://www.youtube.com/playlist?list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1) 📺.
@@ -120,7 +117,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Cyberpunk scene production with Unity & Blender](https://80.lv/articles/cyberpunk-scene-production-with-unity-blender/).
 * [The best pixel art tools for making your own game](http://www.pcgamer.com/best-pixel-art-maker-tools/).
 * [Real time rendering, an overview for artists](https://jesshiderue4.wordpress.com/real-time-rendering-an-overview-for-artists/).
-* [Tips on low poly indie game creation](https://80.lv/articles/omno/).
 * [How to model and texture architectural scenes](https://80.lv/articles/how-to-model-and-texture-architectural-scenes/).
 * [Designing a hero](https://www.patreon.com/posts/15640491).
 * [Stylized prop production with Substance Painter](https://academy.allegorithmic.com/courses/c203935e374ca25287b00df0f6775262).
@@ -191,7 +187,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [How to create stylized 3D character models in Blender, ZBrush and Substance](https://youtu.be/jUH3Ms_7Heg) 📺.
 * [Blender 2.9 PBR texturing beginner tutorial](https://www.youtube.com/watch?v=A7QteBvUOdQ) 📺.
 * [Creating beautiful sci-fi worlds in Unreal Engine 4, full breakdown](https://www.youtube.com/watch?v=q4nAIo1VAAQ) 📺.
-* [A collection of bitmap fonts pulled from various demo scene archives over the years](https://github.com/ianhan/BitmapFonts).
 * [Houdini Engine installation guide for Unity](https://youtu.be/_Wte3iJYGNM) 📺.
 * [Making procedural pixel textures](https://3drealms.com/devblog/graven-dev-blog-4-making-procedural-pixel-textures/).
 * [How to become an environment artist for games](https://www.youtube.com/watch?v=uPtJMke4LRE).
@@ -292,7 +287,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Combat system, game mechanics discussion](https://www.youtube.com/watch?v=Hk1dHpKnc7A).
 * [Storytelling and Character Design series](https://www.youtube.com/playlist?list=PL8nFs6m2Yq_X-etltVp94nSxF2on17-ZK) 📺.
 * [7 tips for aspiring game designers](http://www.squeakywheel.ph/blog/2017/5/24/7-tips-for-aspiring-game-designers).
-* [Game design patterns wiki](http://virt10.itu.chalmers.se/index.php/Category:Patterns).
 * [A psychological approach to making desicions in games](https://sitavriend.wordpress.com/2017/06/19/making-decisions-dual-process-theory/).
 * [Core principles to make your environments understandable to the player](https://80.lv/articles/defining-environment-language-for-video-games/).
 * [Designing each of the 50 weapons in Dead Cells to feel distinctive](http://www.gamasutra.com/view/news/299848/Designing_each_of_the_50_weapons_in_Dead_Cells_to_feel_distinctive.php).
@@ -429,11 +423,9 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Flatbuffers for Unity](http://exiin.com/blog/flatbuffers-for-unity-sample-code/).
 * [Data structures in games](http://enemyhideout.com/2016/05/games-101-data-structures-in-games/).
 * [C++ for games: Performance, allocations and Data Locality](http://ithare.com/c-for-games-performance-allocations-and-data-locality/).
-* [A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things](https://cpp.libhunt.com/).
 * [C# binding for Vulkan](https://github.com/Mervill/Tanagra).
 * [Upgrading existing C# code to C# 6.0](http://www.dotnetcurry.com/csharp/1222/upgrade-existing-csharp-code-csharp-6).
 * [Rendering multiple lights in Unity](http://catlikecoding.com/unity/tutorials/rendering/part-5/).
-* [Learn C# online](http://bafflednerd.com/learn-csharp-online/).
 * [libyojimbo, a source network library](http://gafferongames.com/2016/07/21/launch-of-libyojimbo/).
 * [Raylib, a simple and easy-to-use library to learn videogames programming](http://www.raylib.com/).
 * [A collection of Awesome .NET libraries, tools & frameworks](https://dotnet.libhunt.com/).
@@ -523,7 +515,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [The total beginner's guide to game AI](https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/).
 * [A list of useful books for game AI programming](http://alumni.media.mit.edu/~jorkin/aibooks.html).
 * [From setup to gameplay, a introduction to C++ for Unreal Engine 4](https://www.youtube.com/watch?v=D4UM73O7Zxs) 📺.
-* [Game shaders for beginners](https://github.com/lettier/3d-game-shaders-for-beginners).
 * [Game source code collection](https://archive.org/details/gamesourcecode).
 * [A list of awesome programming talks by language](https://github.com/hellerve/programming-talks).
 * [S.O.L.I.D Design Patterns: Single responsibility principle](https://www.youtube.com/watch?v=f5zJ4D2E0dI) 📺.
@@ -573,10 +564,8 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Asynchronous programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md).
 * [Object-Oriented Entity-Component-System design](https://voxely.net/blog/object-oriented-entity-component-system-design/).
 * [Emergent AI, smart agents and events for games](https://psichix.github.io/emergent/).
-* [Curated list of awesome tips and tricks and resources in .Net world](https://github.com/meysamhadeli/awesome-dotnet-tips).
 * [Game engine C++ programming tutorials](https://www.youtube.com/watch?v=hRL56gXqj-4&list=PLU2nPsAdxKWQYxkmQ3TdbLsyc1l2j25XM) 📺.
 * [How to build a platformer AI](https://devlog.levi.dev/2021/09/building-platformer-ai-from-low-level.html) 📺.
-* [Introduction to Computer Graphics (21 videos)](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) 📺.
 * [Github's collection of open-source game engines](https://github.com/collections/game-engines).
 * [Procedurally generated 3D dungeons](https://www.youtube.com/watch?v=rBY2Dzej03A) 📺.
 * [Create an installer for your game](https://jeannoelseneque.medium.com/create-an-installer-for-your-game-aec453848b13).
@@ -593,7 +582,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Hacking and reverse engineering IL2CPP games with Ghidra](https://noob3xploiter.medium.com/hacking-and-reverse-engineering-il2cpp-games-with-ghidra-5cee894024f2).
 * [C# and .NET for beginners](https://www.youtube.com/watch?v=xPu_oftSo2I&list=PLm1dtWebLYwWK2zb6lmgdonm3Z5BE5su0) 📺.
 * [How to become a game engine developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer).
-* [Roadmap to becoming a game developer in 2022](https://github.com/utilForever/game-developer-roadmap).
 * [Introduction to GPUs with OpenGL](https://engineering.monstar-lab.com/en/post/2022/03/01/Introduction-To-GPUs-With-OpenGL/).
 * [C++ cheat sheets](https://hackingcpp.com/cpp/cheat_sheets.html).
 * [Data Flow in game development, or how to avoid spaghetti code](https://medium.com/@zacharybuffone/data-flow-in-game-development-or-how-to-avoid-spaghetti-code-81dc2bf16e98).
@@ -704,7 +692,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [David Wehle about his solo game development experience](https://www.youtube.com/watch?v=g5f7yixtQPc) 📺.
 * [How to find and hire a game dev team](https://gameanalytics.com/blog/developers-assemble-hire-game-dev-team/)
 * [Solo gamedev Kanban magic](http://michaelb.org/solo-game-dev-kanban-magic/).
-* [The importance of pre-production](https://www.makinggames.biz/production/the-importance-of-pre-production-part-1-2,2352383.html).
 * [Publishing to the Google Play Store](https://andrea-alicino.medium.com/publishing-to-the-google-play-store-23a2a70f5dff) 📺.
 * [Creating Addressable content builds & Cloud Content Delivery releases in GitHub Actions](https://medium.com/@bencekovacs/creating-addressable-content-builds-cloud-content-delivery-releases-in-github-actions-ef6bd5b972b2).
 * [A curated list of awesome things related to GitHub Actions](https://github.com/sdras/awesome-actions).
@@ -1051,7 +1038,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Glitch game art](http://www.glitchthegame.com/public-domain-game-art/).
 * [Scalable vector art](http://game-icons.net).
 * [Great collection of resources](https://github.com/saniv/free-game-art).
-* [Free Unity assets list](http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/).
 * [80's free soundtracks](https://soundcloud.com/beardmont/sets/the-happiest-days-of-our-lives).
 * [A list of game development resources](https://github.com/ellisonleao/magictools).
 * [Free programming eBooks](http://www.oreilly.com/programming/free/).
@@ -1129,7 +1115,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [ChinaJoy Special: A foreigner's guide to digital China](http://gamasutra.com/blogs/PascalClarysse/20140801/222406/ChinaJoy_Special_a_Foreigners_Guide_to_Digital_China.php).
 * [Discover the spending habits of online gamers worldwide](http://corporate.onebip.com/onebip-data-insights-discover-the-spending-habits-of-online-gamers-worldwide/).
 * [The Freemium Codex](http://mobiledevmemo.com/freemium-codex-resources-for-freemium/).
-* [Capture your audience's attention](http://www.kertgartner.com/making-entertaining-and-engaging-video-game-trailers/).
 * [The ultimate startup marketing strategy](https://www.ventureharbour.com/ultimate-startup-marketing-strategy/).
 * [Naming an indie game](http://www.gamedev.net/page/resources/_/business/business-and-law/naming-an-indie-game-r3835).
 * [Indie game marketing guide - How to create Landing Pages](http://gamasutra.com/blogs/MariosMouratidis/20141001/226838/Indie_Game_Marketing_Guide_Part_1__How_to_create_Landing_Pages.php).
