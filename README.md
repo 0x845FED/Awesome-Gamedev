@@ -378,7 +378,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 
 ## **Code**
 
-* [Online school for developers](https://www.coding-school.eu/).
 * [A list of open source C++ libraries](http://en.cppreference.com/w/cpp/links/libs).
 * [Awesome OpenGL](https://github.com/eug/awesome-opengl), a curated list of awesome OpenGL libraries, debuggers, ...
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp), a collection of resources on modern C++.
@@ -533,7 +532,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Collection of resources related to Signed Distance Field (SDF)](https://github.com/CedricGuillemet/SDF).
 * [From brute force to formal elegance, refactoring complicated code](https://medium.com/geekculture/refactoring-complicated-code-ad8b09a5b92b).
 * [Developing a Space Arcade game in C++ without an engine](https://www.youtube.com/watch?v=v-3TN1dEw4M&list=PL22CMuqloY0qiYlv1Lm_QtfwuFz9OB0NE) 📺.
-* [C++20 concepts: the definitive guide](https://thecodepad.com/cpp/c20-concepts-the-definitive-guide/).
 * [Making a game engine in C++ from scratch: designing the architecture](https://www.youtube.com/watch?v=sHVEL90NLhc) 📺.
 * [5 ways to draw an outline](https://alexanderameye.github.io/notes/rendering-outlines/).
 * [Engineering stable and reliable AI](https://www.youtube.com/watch?v=OBusUGlnmWI) 📺.
@@ -977,7 +975,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [The list of best free and affordable game graphics resources](http://gamasutra.com/blogs/ArtursSosins/20151028/257619/The_list_of_best_free_and_affordable_game_graphics_resources.php).
 * [Free sound effects](http://www.freesound.org/).
 * [Sound effects and loops](http://www.soundsnap.com/).
-* [Music and effects](http://www.audiobank.fm/).
 * [Retro sound effect generator](http://www.superflashbros.net/as3sfxr/).
 * [4250+ royalty free sound effects](http://www.universalsoundfx.com/).
 * [Buy music](http://bandcamp.com/).
