@@ -56,9 +56,7 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Color in games: An in-depth look at one of game design's most useful tools](http://www.gamasutra.com/blogs/HermanTulleken/20150729/249761/Color_in_Games.php).
 * [Intro To Blender for Absolute Beginners](https://www.youtube.com/watch?v=2pGGDxVF-pk) 📺.
 * [Physically based rendering](http://blog.wolfire.com/2015/10/Physically-based-rendering).
-* [3 steps to improve your game’s graphics](http://blog.gameanalytics.com/blog/3-steps-to-improve-your-games-graphics.html).
 * [Blender game character creation series](https://www.youtube.com/playlist?list=PLyelx0TsmSpeHKYfP-_HG37deH3RW5sMD) 📺.
-* [Blocky SciFi gallery](https://es.pinterest.com/pascalblanche/blocky-scifi/).
 * [How to learn Blender 3D in under 24 hours](http://www.creativebloq.com/blender/learn-blender-3d-under-24-hours-111518089).
 * [Blender Tutorial from the very basics](https://www.youtube.com/watch?v=A3HOEjmLMbQ) 📺.
 * [Spriting guide](http://www.dragonflycave.com/recoloring.aspx).
@@ -80,7 +78,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Photoscan tutorial - Photogrammetry](https://www.youtube.com/watch?v=bero-JBTAX8) 📺.
 * [Gamma and Linear space - What they are and how they differ](http://www.kinematicsoup.com/news/2016/6/15/gamma-and-linear-space-what-they-are-how-they-differ).
 * [How to avoid bad color schemes](https://neutroniogames.blogspot.com.es/2016/06/color-theory-for-programmers_18.html).
-* [Setting up PBR materials and baked lighting in Unity 5](http://www.thesongofseven.com/dev-blog/2016/6/26/setting-up-pbr-materials-and-baked-lighting-in-unity-5).
 * [Creating our Logo](https://i.imgur.com/zbSbj47.png).
 * [Texturing for beginners: Top 14 Ways to mix textures and shaders, in Blender](https://www.youtube.com/watch?v=liNGmdXsfbs) 📺.
 * [Lighting for game developers](https://www.youtube.com/watch?v=O9XPEMu4Chs) 📺.
@@ -118,13 +115,11 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [The best pixel art tools for making your own game](http://www.pcgamer.com/best-pixel-art-maker-tools/).
 * [Real time rendering, an overview for artists](https://jesshiderue4.wordpress.com/real-time-rendering-an-overview-for-artists/).
 * [How to model and texture architectural scenes](https://80.lv/articles/how-to-model-and-texture-architectural-scenes/).
-* [Designing a hero](https://www.patreon.com/posts/15640491).
 * [Stylized prop production with Substance Painter](https://academy.allegorithmic.com/courses/c203935e374ca25287b00df0f6775262).
 * [A database of palettes for pixel art](https://lospec.com/palette-list).
 * [Realistic vs. Stylized asset production: a technique overview](https://80.lv/articles/realistic-vs-stylized-technique-overview/).
 * [An interesting analysis on the art style of Overwatch](https://80.lv/articles/overwatch-technical-overview/).
 * [A step-by-step guide to modeling in Unreal Engine](https://game-ace.com/blog/unreal-engine-3d-modeling-a-step-by-step-guide).
-* [Step by step character art](https://www.thomasdocjohnson.com/single-post/2018/01/06/Digital-Art-Workflow-Step-by-StepCharacter-Art).
 * [GPU performance for game artists](http://www.fragmentbuffer.com/gpu-performance-for-game-artists/).
 * [Stylized environment production in Unity](https://80.lv/articles/stylized-environment-production-in-unity/).
 * [VFX staples: shape, color, and motion](https://80.lv/articles/vfx-staples-shape-color-and-motion/).
@@ -138,7 +133,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Thoughtful hair design: theory and practise](http://blog.camposanto.com/post/171638832704/zora-is-one-of-the-two-main-characters-in-our).
 * [Stylized character production techniques in Unreal Engine](https://80.lv/articles/stylized-character-production-techniques-in-ue4/).
 * [Realistic material design tips and tricks](https://80.lv/articles/realistic-material-design-tips-and-tricks/).
-* [Grass creation for games](https://80.lv/articles/tutorial-grass-creation-for-games/).
 * [Building the Just Cause 3 animation and rigging pipeline](https://youtu.be/Tfw21ciEyZE) 📺.
 * [Dirt generator in Substance Designer](https://80.lv/articles/dirt-generator-in-substance-designer/).
 * [Stylizing 3D character content: model, texture and details](https://80.lv/articles/stylizing-3d-character-content-model-texture-details/).
@@ -155,12 +149,10 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [The best design tools for everything](https://github.com/LisaDziuba/Awesome-Design-Tools).
 * [Low poly character design](https://sundaysundae.co/how-to-make-low-poly-characters/).
 * [Hand-Painted texture guide](https://80.lv/articles/001agt-hand-painted-texture-guide-from-vsquad/).
-* [3D geometry best practices for artists](https://developer.arm.com/solutions/graphics/developer-guides/best-practices-for-mobile-game-art-assets-1/geometry-best-practices/single-page).
 * [Best practice for particle effects in 2D pixel art games](https://imgur.com/gallery/z4Boura).
 * [How to create a character with ZBrush](https://youtu.be/VIFJWi4u6Ls) 📺.
 * [Typography in games](https://youtu.be/iEonPcoqEFQ) 📺.
 * [Improve your programmer art: Up your color game](https://youtu.be/aT_gghruWAg) 📺.
-* [Psychology of colour](https://themarketingindex.com/the-marketers-guide-to-psychology-of-colour/).
 * [High to low Poly workflow: Blender to Substance Painter to Unity](https://youtu.be/rfBp9YhkoWo) 📺.
 * [How a Blizzard artist approaches stylized character creation](https://stylizedstation.com/article/how-a-blizzard-artist-approaches-stylized-character-creation/]).
 * [Sci-Fi level builder in Houdini](https://www.sidefx.com/tutorials/sci-fi-level-builder/).
@@ -225,7 +217,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [The eight steps game design document](https://es.scribd.com/doc/299827462/8-Step-Game-Design-Document).
 * [About Combat System Design](http://breadcrumbsinteractive.com/about-combat-system-design/).
 * [UX How-To](https://www.youtube.com/playlist?list=PLg-UKERBljNy2Yem3RJkYL1V70dpzkysC) 📺.
-* [11 Tips to speed up your game design process](http://blog.gameanalytics.com/blog/11-tips-to-speed-up-your-game-design-process.html).
 * [5 approaches to Crafting Systems in games](http://gamedevelopment.tutsplus.com/articles/5-approaches-to-crafting-systems-in-games-and-where-to-use-them--cms-22628).
 * [Designing game narrative: How to create a great story](http://www.develop-online.net/opinions/designing-game-narrative-how-to-create-a-great-story/0185460).
 * [On making good combat mechanics](http://joesopko.weebly.com/blog/on-making-good-combat-mechanics-part-1).
@@ -245,7 +236,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [How games do health](https://youtu.be/4AEKbBF3URE) 📺.
 * [How Hyper Light drifter’s ammo recharges its combat](https://www.rockpapershotgun.com/2016/07/29/how-hyper-light-drifters-ammo-recharges-its-combat/).
 * [The language of Video Games](https://www.youtube.com/watch?v=qsSpo8DPuIc) 📺.
-* [Feeling like a badass in games](https://convexadam.wordpress.com/2016/06/27/badass-in-games/).
 * [Composition techniques and player direction](https://shapeofplay.wordpress.com/2013/06/25/composition-level-design/).
 * [How Pillars of Eternity changed the stats game](https://www.youtube.com/watch?v=9xP4U2z3d-Y) 📺.
 * [A taxonomy of randomness in Hearthstone](http://gangles.ca/2016/09/12/hearthstone-randomness/).
@@ -309,13 +299,11 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [The Inner Psycho, morality in games](https://immersionaddict.wordpress.com/2017/11/09/the-inner-psycho-morality-in-games/).
 * [An analysis on how Undertale made pacifism fun](https://youtu.be/PTgcUIudRY8) 📺.
 * [Applications of AI in AAA games](https://www.youtube.com/playlist?list=PLokhY9fbx05eq8SvcNOxYRquYMzMjF9Ok) 📺.
-* [Survival Horror – Do’s and Don’t’s (I/II)](https://enomview.com/2018/01/27/survival-horror-dos-and-donts-1/).
 * [Why monster hunter world's combat is so satisfying](https://www.youtube.com/watch?v=ZqQtFbOnK0Y) 📺.
 * ['CRPG Book Project', the history of Computer Role-Playing Games](https://crpgbook.files.wordpress.com/2018/02/crpg_book_1-0.pdf) (pdf).
 * [How Celeste teaches you its mechanics](https://youtu.be/lZoQ9a7oPvo) 📺.
 * [Nice advices about level design](https://www.gamasutra.com/view/news/314857/GDC_2018_Level_Design_Workshop_An_expert_roundtable_QA.php).
 * [Creating strong video game characters](https://youtu.be/4mgK2hL33Vw) 📺.
-* [Game Design Document examples](http://seriousgamesnet.eu/assets/view/238).
 * [Mobile screen patterns](https://mobile-patterns.com/).
 * [What makes a good combat system?](https://youtu.be/8X4fx-YncqA) 📺.
 * [Psych of play: how to make a video game memorable](https://youtu.be/SqdqgSZUPes) 📺.
@@ -339,7 +327,7 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Five practical game design tools to help design your game](https://www.gamasutra.com/blogs/RafaelVazquez/20200309/359272/5_Practical_game_design_tools_to_help_design_your_game.php).
 * [Use the Three Brains Model to design better games](https://youtu.be/nM-IcWuNCd4) 📺.
 * [The game design principle of "Going Tiny", a conversation with Dr David King, developer of "Tiny Islands"](https://youtu.be/OXAcWMVzHfE) 📺.
-* [How design a game from scratch?](https://teamavocado.co/core-loop/).
+* [How design a game from scratch?](https://jasont.co/core-loop/).
 * [Check a name for unwanted meanings in foreign languages](http://wordsafety.com/).
 * [Tools, books, blogs, tutorials and more for and about narrative design and game writing](https://www.notion.so/f6e4a2e8708948faa21329c9aa275c9f?v=3079661d59c44f7fa9d8d762a6fd2969).
 * [The ultimate guide to visual storytelling](https://humanparts.medium.com/the-ultimate-guide-to-visual-storytelling-59e3028fcd8c).
@@ -392,9 +380,7 @@ A curated collection of resources to gamedev. To add, remove or change things on
 
 * [Online school for developers](https://www.coding-school.eu/).
 * [A list of open source C++ libraries](http://en.cppreference.com/w/cpp/links/libs).
-* [Introduction to Computer Science I](http://cs50.tv/2014/fall/), a Harvard College's introductory course.
 * [Awesome OpenGL](https://github.com/eug/awesome-opengl), a curated list of awesome OpenGL libraries, debuggers, ...
-* [Awesome C/C++](https://drktech.com/2014/11/05/a-curated-list-of-awesome-cc-frameworks-libraries-resources-and-shiny-things/), a curated list of awesome C/C++ frameworks, libraries, resources, ...
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp), a collection of resources on modern C++.
 * [Advanced C++/OpenGL](https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW) 📺.
 * [Client side network DO’s and DON’Ts for Game Engine Developers](http://ithare.com/64-network-dos-and-donts-for-game-engine-developers-part-i-client-side/) (I/VIIb).
@@ -416,8 +402,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Introduction to networked physics](http://gafferongames.com/networked-physics/introduction-to-networked-physics/).
 * [Multithreading in modern C++](http://www.modernescpp.com/index.php/multithreading-in-modern-c).
 * [Essentials of Software Engineering, with a Game Programming focus](http://www.randygaul.net/wp-content/uploads/2016/05/R.Gaul_Essentials_SE.pdf) (pdf).
-* [Turn based multiplayer](https://theliquidfire.wordpress.com/2016/05/05/turn-based-multiplayer-part-1/).
-* [DiLIB: Behavior Tree library in C++](http://dilib.dimutu.com/).
 * [Remaking Cavestory in C++](https://www.youtube.com/watch?v=ETvApbD5xRo) 📺.
 * [Three C# garbage examples](https://xenoprimate.wordpress.com/2016/04/08/three-garbage-examples/).
 * [Flatbuffers for Unity](http://exiin.com/blog/flatbuffers-for-unity-sample-code/).
@@ -473,7 +457,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Render pipelines desing in C++](http://www.marti.works/render-pipelines-desing-in-c/).
 * [Anvil, a cross-platform, open-source, MIT-licensed wrapper library for Vulkan](http://gpuopen.com/gaming-product/anvil-vulkan-framework/).
 * [Implementing robust AI: Enemy positioning](http://www.rikodu.com/implementing-robust-ai-for-secondhand-enemy-positioning/).
-* [How does multiplayer game sync their state?](http://www.cakesolutions.net/teamblogs/how-does-multiplayer-game-sync-their-state-part-1).
 * [A study path for game programmer](https://github.com/miloyip/game-programmer).
 * [C++ language quick guide](http://viptechworld.blogspot.com.es/2017/05/cpp-quick-guide-by-vtw.html).
 * [Unit Tests, how to write testable code and why it matters](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters).
@@ -499,7 +482,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Game developer’s guide to graphical projections (I/II)](https://medium.com/retronator-magazine/game-developers-guide-to-graphical-projections-with-video-game-examples-part-1-introduction-aa3d051c137d).
 * [Using neural networks and machine learning to power up a 2D roguelike in Unity](https://blogs.unity3d.com/es/2017/12/11/using-machine-learning-agents-in-a-real-game-a-beginners-guide/).
 * [Make a RPG and learn C#](https://wpuploads.azureedge.net/2016/08/LearnCSharpSimpleRPG_2ndEd.pdf) (pdf).
-* [Making a C++ game engine from scratch](https://www.jacobmilligan.com/posts/making-a-game-engine-part-0/).
 * [Profiling, measurement and analysis](https://engineering.riotgames.com/news/profiling-measurement-and-analysis).
 * [A rendering abstraction which describes a frame as a directed acyclic graph of render tasks and resources](https://github.com/acdemiralp/fg).
 * [The 15 C++11 features you must really use](http://cppdepend.com/blog/?p=319).
@@ -509,7 +491,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Networked physics in VR](https://developer.oculus.com/blog/networked-physics-in-virtual-reality-networking-a-stack-of-cubes-with-unity-and-physx/).
 * [Color theory for programmers, how to find great colors](https://youtu.be/-l2g4adWWwo) 📺.
 * [Shaders: a short story](https://medium.com/@darkdreamday/shaders-a-short-story-31210427a7c).
-* [Optimization of Catan Universe on mobile for Unity](https://rubentorresbonet.github.io/unity/2017/06/12/catan-universe-mobile-optimization-unity.html).
 * [Unreal Engine gameplay framework primer for C++](http://www.tomlooman.com/ue4-gameplay-framework/).
 * [OpenGL, step by step](http://ogldev.atspace.co.uk/).
 * [The total beginner's guide to game AI](https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/).
@@ -526,8 +507,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [The 25 most recommended programming books of all-time](https://www.daolf.com/posts/best-programming-books/).
 * [Netcode fundamentals for fast-paced multiplayer games](https://youtu.be/6WmK9qa2KIg) 📺.
 * [One million sprites, more than 120fps](https://coffeebraingames.wordpress.com/2020/04/05/one-million-sprites-more-than-120fps-dots-not-required/).
-* [Hitboxes that feel good](https://subpixel.net/2020/03/20/hitboxes-that-feel-good-reinventing-the-goomba-stomp/).
-* [The relevant Unity’s stuff](https://simonsanchezart.com/the-relevant-unity-stuff/2048/).
 * [A gentle introduction to AI](https://medium.com/mighty-bear-games/a-gentle-introduction-to-ai-8d7efaea12cc).
 * [An Entity Component System with Data Locality in C++](https://indiegamedev.net/2020/05/19/an-entity-component-system-with-data-locality-in-cpp/).
 * [The book of Shaders](https://thebookofshaders.com/).
@@ -536,7 +515,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Networking in C++ part #1: MMO Client/Server, ASIO & framework basics](https://youtu.be/2hNdkYInj4g]) 📺.
 * [Game Engine Programming 001](https://youtube.com/watch?v=hRL56gXqj-4&list=PLU2nPsAdxKWQYxkmQ3TdbLsyc1l2j25XM) 📺.
 * [Computer graphics from scratch](https://www.scratchapixel.com/).
-* [HandMadeHero engine development playlist](https://handmadehero.org/watch).
 * [Weeb's guide to programming in Unity](https://docs.google.com/document/d/1eTRYnxrII3b_vce9EytjGA7PU8HCLVjG8qCyW19kqcA).
 * [The definitive FAQ about ECS](https://github.com/SanderMertens/ecs-faq).
 * [Multithreading for game engines](https://vkguide.dev/docs/extra-chapter/multithreading/).
@@ -595,11 +573,9 @@ A curated collection of resources to gamedev. To add, remove or change things on
 
 ## **Audio**
 
-* [Noise level chart](http://www.noisehelp.com/noise-level-chart.html), examples of sounds with dB levels ranging from 0 to 180 decibels.
 * [The basics of recording audio for digital video](https://www.youtube.com/watch?v=S9cP1WHL0Zo) 📺.
 * [Sound effects and scripting in Unity](https://www.youtube.com/watch?v=5N-428vKwaE) 📺.
 * [Game audio tutorials](https://www.youtube.com/playlist?list=PLzOBPpKi0Kcvm4tIS6ribeIkIzkv7Bl1Z) 📺.
-* [Music explained, exploited, expressed](http://blog.disasterpeace.com/) blog.
 * [Where the sounds from the world's favorite movies are born](https://www.youtube.com/watch?v=0GPGfDCZ1EE) 📺.
 * [DOOM: Behind the music](https://www.youtube.com/watch?v=ua-f0ypVbPA) 📺.
 * [Mario Kart 8 ft. SpaceHamster - Original sound theory](https://www.youtube.com/watch?v=mGjVkz-duNc) 📺.
@@ -614,7 +590,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [An introduction to game audio scripting](https://www.asoundeffect.com/game-audio-scripting/).
 * [Creating music for games in Fruity Loops 12](https://www.youtube.com/watch?v=sgSZCl0Mdhs) 📺.
 * [The music of Breath of the Wild](https://www.youtube.com/watch?v=3FWVKu1gnWs) 📺.
-* [Interview with the composer of LIMBO and INSIDE](https://vimeo.com/215488901) 📺.
 * [Get started making music](https://learningmusic.ableton.com/).
 * [Composing the music and sound of Hyper Light Drifter](https://youtu.be/k1b9xKRC74E) 📺.
 * [The sound design secrets of Horizon Zero Dawn](https://youtu.be/SIAmi88akl0) 📺.
@@ -626,7 +601,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [How to make indie game music for beginners](https://youtu.be/AheuOqlAMvA) 📺.
 * [Designing sounds for a game](https://www.gamasutra.com/blogs/PavelShylenok/20190506/342095/Designing_Sounds_for_a_Game.php).
 * [Creating explosion sounds](https://youtu.be/Go7qOzFnOsg) 📺.
-* [100% free, hand-crafted music](https://openmusicrevolution.com).
 * [9 sound design tips to improve your game’s audio](https://gameanalytics.com/blog/9-sound-design-tips-to-improve-your-games-audio.html).
 * [How to make fighting game sounds](https://youtu.be/o0epA2d2t_c) 📺.
 * [Sound design production for open world 3D video game](https://youtu.be/iNbLMOmxSO0) 📺.
@@ -655,19 +629,15 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Project planning for solo gamedev](http://hacknplan.com/project-planning-for-solo-game-developers/).
 * [Understanding vertical slicing](http://hacknplan.com/understanding-vertical-slicing).
 * [Spiral model for game development](http://gamedevelopertips.com/spiral-model-for-game-development/).
-* [Crunch: the failure of project management in the games industry](http://www.openthesis.org/document/view/602718_0.pdf) (pdf).
 * [How to plan a video game: The pre-production phase](https://www.youtube.com/watch?v=_kx_mpRyVMM) 📺.
 * [The stress of game development - Tips for survival](https://youtu.be/XUcp2bNTwBg) 📺.
-* [How to host your own private Git repositories](https://eklitzke.org/how-to-how-your-own-private-git-repositories).
 * [How to survive as a solo dev for like a decade or so](http://www.sizefivegames.com/2017/05/04/how-to-survive-as-a-solo-dev-for-like-a-decade-or-so/).
-* [Working with Git (for games and... in general)](https://blog.joy-machine.com/working-with-git-for-games-and-in-general-a0efb78f3a01).
 * [How actually make your dream game, publish it and not die in the process](https://godotengine.org/article/how-actually-make-your-dream-game).
 * [Detailed guide to Git](https://medium.com/learn-git-today/the-ultimate-git-guide-to-creating-your-first-repo-b50762a6ab00).
 * [Choosing Version Control System for development](http://ithare.com/choosing-version-control-system-for-gamedev/).
 * [How I got to 200 productive hours a month](https://qotoqot.com/blog/improving-focus/).
 * [Techniques for dealing with lack of motivation, malaise, depression](https://www.youtube.com/watch?v=i7kh8pNRWOo) 📺.
 * [A curated directory of resources and tools to help you build your Startup](http://startupstash.com/).
-* [Improving productivity using Pomodoro, takeaways after 2 years of practice](http://mehdi.cherti.name/improving-my-productivity-using-pomodoro-takeaways-after-2-years-of-practice.html).
 * [Three reasons to soft launch your mobile game](http://www.gamesindustry.biz/articles/2018-01-10-three-reasons-to-soft-launch-your-mobile-game).
 * [How to interview game programmers](https://youtu.be/a1MjIWGYvy8) 📺.
 * [Modern approaches to game production](https://80.lv/articles/modern-approaches-to-game-production/).
@@ -690,7 +660,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Going from 0 to successful Kickstarter](https://www.youtube.com/watch?v=O-Q_-4Mh8ME) 📺.
 * [David Wehle about his solo game development experience](https://www.youtube.com/watch?v=g5f7yixtQPc) 📺.
 * [How to find and hire a game dev team](https://gameanalytics.com/blog/developers-assemble-hire-game-dev-team/)
-* [Solo gamedev Kanban magic](http://michaelb.org/solo-game-dev-kanban-magic/).
 * [Publishing to the Google Play Store](https://andrea-alicino.medium.com/publishing-to-the-google-play-store-23a2a70f5dff) 📺.
 * [Creating Addressable content builds & Cloud Content Delivery releases in GitHub Actions](https://medium.com/@bencekovacs/creating-addressable-content-builds-cloud-content-delivery-releases-in-github-actions-ef6bd5b972b2).
 * [A curated list of awesome things related to GitHub Actions](https://github.com/sdras/awesome-actions).
@@ -767,10 +736,8 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Let's Learn Unity](https://www.youtube.com/playlist?list=PLc4er0fVuCUc8S-z6PLfSjql9RPFCGwmj) 📺.
 * [50 Tips and Best Practices for Unity (2016 Edition)](http://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php).
 * [1000000 items in Unity](https://enzisoft.wordpress.com/2016/03/09/factorio-in-unity-part-1/).
-* [Pixel-Perfect virtual camera](https://theadrainblog.wordpress.com/2016/09/05/pixel-perfect-virtual-camera-unity3d/).
 * [Unity open source search engine](http://unitylist.com/).
 * [Extend the Unity editor](https://www.raywenderlich.com/130721/extend-unity3d-editor).
-* [Beginning C# with Unity](https://videos.raywenderlich.com/courses/beginning-c/lessons/1) 📺.
 * [Compute shaders](https://www.youtube.com/watch?v=qDk-WIOYUSY) 📺.
 * [Raymarching Distance Fields in Unity](http://flafla2.github.io/2016/10/01/raymarching.html).
 * [MVC in Unity](http://www.stardust.ch/mvc-in-unity/).
@@ -806,7 +773,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Rendering essentials in Unity, for software engineers](https://blog.eyas.sh/2020/10/unity-for-engineers-pt6-rendering/).
 * [New Unity Input System: getting started](https://www.raywenderlich.com/9671886-new-unity-input-system-getting-started).
 * [Unity Game Growth Program: tips & tricks](https://diegogiacomelli.com.br/unity-game-growth-program-tips-and-tricks/).
-* [Checklist for building Google Play Store app using Unity](https://gamedevkavin.in/posts/checklist-google-play-store-app-upload).
 * [How to create and manage animations in Unity 2020](https://www.youtube.com/watch?v=tysuunwI3oM) 📺.
 * [Unity quadruped IK using animation rigging](https://www.youtube.com/watch?v=5zNc1xE-m0g) 📺.
 * [Multiplayer FPS in Unity with Photon](https://www.youtube.com/playlist?list=PLhsVv9Uw1WzjI8fEBjBQpTyXNZ6Yp1ZLw) 📺.
@@ -816,9 +782,7 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Destructible objects in Unity](https://www.youtube.com/watch?v=3lGMuKse230) 📺.
 * [A primer on procedural animation in Unity](https://weaverdev.io/blog/bonehead-procedural-animation).
 * [Fundamentals of moving characters in Unity with character controllers](https://www.youtube.com/watch?v=e94KggaEAr4) 📺.
-* [Uploading your Unity game to Steam, a step-by-step tutorial](https://janjilecek.medium.com/uploading-your-unity-game-to-steam-step-by-step-tutorial-52e552919f5a).
 * [Unity in 1 minute](https://www.youtube.com/channel/UCb3J6zwe-TuUHRfD7VKUqMA) 📺.
-* [Understanding Physically Based Rendering in Unity3D](https://mechanicsfoundry.github.io/Physically-Based-Rendering-and-BRDFs/).
 * [Unity for engineers](https://blog.eyas.sh/tag/unity-for-software-engineers/).
 * [How to use every node (+200) in Unity Shader Graph](https://youtu.be/84A1FcQt9v4) 📺.
 * [Writing shader code in Universal RP](https://www.cyanilux.com/tutorials/urp-shader-code/).
@@ -879,7 +843,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Creating a Blueprint Zombie Shooter](https://www.youtube.com/playlist?list=PL4g86nVHyAEfq6p9HPwj6aPT2GussW8c0) 📺.
 * [Unreal Engine tutorials](https://docs.unrealengine.com/latest/INT/Videos/?series=PLZlv_N0_O1gb5sdygbSiEU7hb0eomNLdq) 📺.
 * [How to create a shooter game from scratch](http://shootertutorial.com/2015/08/08/enemy-boss-robot/).
-* [Making a Pong game](http://gaming-resources.com.ve/site/index.php/2015/08/27/tutorial-making-a-pong-game-with-ue4/).
 * [Getting Started with VR](http://www.tomlooman.com/getting-started-with-vr/).
 * [Unreal Engine C++ tutorials](https://www.youtube.com/channel/UCpsN2TfWGmun4peN2IPgcKg) 📺.
 * [Blender to UE4 animation pipeline](https://www.youtube.com/watch?v=moAcoJx8Hfg) 📺.
@@ -890,7 +853,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [An cheat sheet for Unreal Engine 4 C++ programming](https://github.com/jbtronics/UE4-CheatSheet).
 * [Lighting studies in UE4](https://80.lv/articles/lighting-studies-in-ue4/).
 * [FPS controller foundation using C++](https://youtu.be/7Equ1dVbfgo) 📺.
-* [Low poly dungeon generator with Houdini Digital Asset for UE4](https://www.artstation.com/artwork/3og9e2).
 * [Assault rifle in Unreal Engine 4 in C++](https://youtu.be/VUl0SFMZbEA) 📺.
 * [Field of vision with shadow](https://youtu.be/GMCPARUKja0) 📺.
 * [Gun tutorial with VR expansion plugin](https://youtu.be/HzHbcS1zN78) 📺.
@@ -933,12 +895,9 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [GDevelop](http://compilgames.net/), cross-platform open-source HTML5.
 * [Superpowers](http://superpowers-html5.com/index.en.html), 2D & 3D free and open source.
 * [Defold](http://www.defold.com/), 2D game engine.
-* [QICI](http://www.qiciengine.com/), 2D, WYSIWYG editor.
-* [Wave Engine](https://waveengine.net/), 2D & 3D, cross-platform.
 * [Urho3D](http://urho3d.github.io/), free lightweight, C++, cross-platform 2D & 3D.
 * [SFML](http://www.sfml-dev.org/), multi-platform, multi-language.
 * [Banshee3D](http://www.banshee3d.com), multi-threaded, C++14, 2D & 3Ds.
-* [Kit Framework](http://svkonsult.se/kit/), C++11, PBR.
 * [Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.](https://github.com/bkaradzic/bgfx).
 * [Diligent](https://github.com/DiligentGraphics/DiligentEngine), a modern cross-platform 3D graphics library.
 * [List of 2D indie games](https://docs.google.com/spreadsheets/d/1z1RV6w4HjPODFcao34h72Vw-9KxtQ9rv0ZM7folTUMU).
@@ -991,7 +950,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [A potentially premature post mortem for Paradox Vector](https://www.indiedb.com/news/a-potentially-premature-post-mortem-for-paradox-vector).
 * [How I wasted $4k+ and half a year of my life to develop a game that earned only $30](https://gamasutra.com/blogs/AlexeyStrelkov/20210104/375680/How_I_wasted_4k_and_half_a_year_of_my_life_to_develop_a_game_that_earned_only_30.php).
 * [Postmortem: Lenna's Inception](https://lennasinception.com/postmortem/).
-* [Postmortem for the failed Soulash Kickstarter campaign](https://www.patreon.com/posts/51834301).
 * [One year of Code Defense: numbers and learnings](https://frgmnts.blog/f/one-year-core-defense-numbers-learnings.html).
 * [Complete revenue history of modest indie hit game Curious Expedition](https://www.codecks.io/blog/2020/curious-expedition-financial-history/).
 * ["Let's Build a Zoo" launch week sales](https://threadreaderapp.com/thread/1459171466063327234.html).
@@ -1036,13 +994,11 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Icon finder](https://www.iconfinder.com).
 * [Glitch game art](http://www.glitchthegame.com/public-domain-game-art/).
 * [Scalable vector art](http://game-icons.net).
-* [Great collection of resources](https://github.com/saniv/free-game-art).
 * [80's free soundtracks](https://soundcloud.com/beardmont/sets/the-happiest-days-of-our-lives).
 * [A list of game development resources](https://github.com/ellisonleao/magictools).
 * [Free programming eBooks](http://www.oreilly.com/programming/free/).
 * [The #GameAudioGDC bundle](http://www.sonniss.com/gameaudiogdc2017/).
 * [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models).
-* [Yobi3D, a free 3D model search engine](https://www.yobi3d.com/).
 * [High quality FREE Unity resources](http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/).
 * [12 Great places to find sound effects for yout game](http://ninichimusic.com/blog/2017/3/29/12-great-places-to-find-sound-effects-for-your-game-or-project).
 * [Colossal game music collection free](https://www.assetstore.unity3d.com/en/#!/content/88190).
@@ -1108,7 +1064,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [A small guide to getting your PC game known before launch - for $0](http://www.gamasutra.com/blogs/MarcMcCann/20140702/220096/A_small_guide_to_getting_your_PC_game_known__for_0.php).
 * [Marketing your indie game: The single most important thing that no one knows how to do](http://gamedevelopment.tutsplus.com/articles/marketing-your-indie-game-the-single-most-important-thing-that-no-one-knows-how-to-do--gamedev-7157).
 * [The Mega-List of content sharing sites for your indie oroject
-](https://docs.google.com/document/d/1wfkCE3qxGmk0oMPUknKlEfZysOuUbrwaIzmd5xGzy4M/edit?pli=1).
 * [User acquisition best practices for mobile games](http://www.gamasutra.com/blogs/DavidZhao/20140808/222741/User_Acquisition_Best_Practices_for_Mobile_Games.php).
 * [US and China mobile games markets brief](http://www.slideshare.net/superdata/us-and-china-mobile-games-markets-brief).
 * [ChinaJoy Special: A foreigner's guide to digital China](http://gamasutra.com/blogs/PascalClarysse/20140801/222406/ChinaJoy_Special_a_Foreigners_Guide_to_Digital_China.php).
@@ -1118,7 +1073,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Naming an indie game](http://www.gamedev.net/page/resources/_/business/business-and-law/naming-an-indie-game-r3835).
 * [Indie game marketing guide - How to create Landing Pages](http://gamasutra.com/blogs/MariosMouratidis/20141001/226838/Indie_Game_Marketing_Guide_Part_1__How_to_create_Landing_Pages.php).
 * [The 150 most powerful marketing & sales tools](http://www.slideshare.net/ELIV8/the-150-most-powerful-marketing-sales-tools).
-* [Make trailers like the triple A](http://videogamemarketing.ca/2014/10/28/make-trailers-like-triple/).
 * [Indie game PR, marketing, consulting & creative services](http://novypr.com/).
 * [Choosing the perfect keywords for your iOS app](http://gamasutra.com/blogs/SimonHill/20141120/230642/Choosing_the_perfect_keywords_for_your_iOS_app.php).
 * [The 10 commandments of asset promotion](http://blogs.unity3d.com/2013/10/21/the-10-commandments-of-asset-promotion/).
@@ -1126,14 +1080,12 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [The first month of marketing my new iOS/Android game, Planet Lander](https://www.reddit.com/r/gamedev/comments/3dn4g2/the_first_month_of_marketing_my_new_iosandroid/).
 * [How to make $1m without making your players cross](https://www.youtube.com/watch?v=oRFXrheDP8s) 📺.
 * [The holy trinity of monetisation](https://ongamesndata.wordpress.com/2015/07/28/the-holy-trinity-of-monetisation/).
-* [Marketing 101 for indie mobile game developers](http://blog.soom.la/2015/08/marketing-101-indie-mobile-game-developers.html).
 * [6 ways for indie game devs to innovate their way into the top chart](http://www.chupamobile.com/blog/2015/09/17/6-ways-for-indie-game-devs-to-innovate-their-way-into-the-top-chart/).
 * [Marketing ideas for your indie game](http://www.gamasutra.com/blogs/SergiuCraitoiu/20160119/263694/Marketing_ideas_for_your_indie_game.php).
 * [Understanding your game through data, analytics for indies 101](https://medium.com/steam-spy/understanding-your-game-through-data-8b09ca93ec11#.ljmc44pid).
 * [The 2016 definitive guide to mobile analytic platforms](https://www.reddit.com/r/gamedev/comments/42wkmu/the_2016_definitive_guide_to_mobile_analytic/).
 * [Promoting your game - 2016 edition](https://www.reddit.com/r/gamedev/comments/492wvp/promoting_your_game_2016_edition/).
 * [Video game analytics (metrics) you NEED to measure](https://www.reddit.com/r/gamedev/comments/4cgimb/video_game_analytics_metrics_you_need_to_measure/).
-* [Marketing for videogames](http://egameslabs.com/).
 * [7 tips to give traction to your indie game](https://gamedevacademy.org/7-tips-to-give-traction-to-your-indie-game/).
 * [How to top the App Store charts with no marketing budget](http://blog.tapdaq.com/app-marketing/how-to-top-the-app-store-charts-with-no-marketing-budget/).
 * [Best practices for rewarded video ads](http://blogs.unity3d.com/2016/04/20/best-practices-for-rewarded-video-ads-2/).
@@ -1145,12 +1097,10 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Three ways to raise money for your game](https://blogs.unity3d.com/2016/08/08/three-ways-to-raise-money-for-your-game/).
 * [8 marketing tools for gamedevs](http://dominickamin.com/8-marketing-tools-gamedevs).
 * [Behavior analysis of 50k mobile players](https://www.frozax.com/blog/2016/09/behavior-analysis-of-50000-mobile-players/).
-* [15 Mobile KPIs every developer needs to measure... right now](https://mmmag.appsee.com/2016/11/03/mobile-kpis-every-developer-needs-to-measure/).
 * [The developer marketing guide](https://www.devmarketingguide.com/).
 * [59 ways to monetize your indie game](http://gdu.io/blog/monetization/).
 * [Marketing your indie game on a zero-dollar budget](http://www.gameanalytics.com/blog/marketing-indie-game-without-budget.html).
 * [Re-implementation of presskit() as a static site generator.](https://github.com/pixelnest/presskit.html).
-* [Getting featured on Apple TV vs. iOS](http://www.mobypixel.com/getting-featured-on-apple-tv-vs-ios).
 * [Marketing for indies](https://www.unrealengine.com/en-US/blog/marketing-for-indies).
 * [List of mobile sites, youtubers, etc to send your game](https://docs.google.com/spreadsheets/d/1MBGEG2OtzuI98srRfvbONxJHassuztPrk_4yMm9CWUY/edit#gid=697742541).
 * [Marketing with GIFs](https://lucasmolinablog.wordpress.com/2017/08/16/indiemarketing-gif/).
@@ -1197,7 +1147,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [3 Steam marketing tips to sell more games](https://www.youtube.com/watch?v=XCrrjBCgxGQ) 📺.
 * [How do you make a Steam Store Page?](https://www.youtube.com/watch?v=PVcLOJ22xSw) 📺.
 * [Budgeting to build your community](https://thevtran.medium.com/budgeting-to-build-your-community-706d788c3ae3).
-* [How to announce your Upcoming Steam Indie Game for Maximum Exposure and Wishlists](https://www.gamedeveloper.com/disciplines/how-to-announce-your-upcoming-steam-indie-game-for-maximum-exposure-and-wishlists).
 * [This might be the Best Way to market an Indie Game](https://www.youtube.com/watch?v=pNd0k9j6TXo).
 * [How to Benchmark a video game?](https://tavrox.medium.com/tutorial-how-to-benchmark-my-video-game-59b68a3e28b9).
 * [Top game trailer mistakes and how to fix them](https://www.youtube.com/watch?v=fFSNJ_Hsfx0) 📺.
@@ -1215,10 +1164,8 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Dustforce sales figures](http://hitboxteam.com/dustforce-sales-figures).
 * [Is freemium the right model for your business?](https://t37.net/is-freemium-the-right-model-for-your-business.html).
 * [Hearthstone - Monetization analysis](http://www.gamasutra.com/blogs/EthanLevy/20140508/217377/Hearthstone__Heroes_of_Warcraft_monetization_analysis.php).
-* [Results of translating Hit Tennis 3](http://www.markj.net/translate-hit-tennis-3-iphone-game).
 * [A comprehensive free-to-play game model](http://mobiledevmemo.com/free-to-play-spreadsheet-revenue-model/).
 * [Analyzing apps worldwide](http://blog.appannie.com/).
-* [Fingle marketing effort and numbers](http://gameovenstudios.com/fingle-marketing-effort-and-numbers).
 * [Cardinal Quest: How I made $60k from My indie game](http://gamedevelopment.tutsplus.com/articles/cardinal-quest-how-i-made-60000-from-my-indie-game--gamedev-12073).
 * [Discover all you need to know on games, eSports & mobile](https://newzoo.com/).
 * [24000 videogames releases since 1975](http://imgur.com/Eo9kJ).
@@ -1241,11 +1188,9 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Game revenue metrics — What matters, and when](https://www.periscopedata.com/blog/game-revenue-metrics.html).
 * [Is your business model evil? The moral maze of the new games business](https://www.youtube.com/watch?v=gjPaQldK-RE&feature=youtu.be) 📺.
 * [Hacking Kickstarter: How to raise $100,000 in 10 days (includes Successful Templates, emails, etc.)](http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc/).
-* [Mobile Ad networks comparison](http://blog.soom.la/2016/05/mobile-ad-networks-comparison-spreadsheet.html).
 * [App stores, Steam and indie poverty: the web as an alternative](http://wimi5.com/app-stores-steam-and-indie-poverty-the-web-as-an-alternative/).
 * [New mobile game statistics every game publisher should know in 2016](https://www.surveymonkey.com/business/intelligence/mobile-game-statistics/).
 * [Stop shooting yourself in the foot: 10 elusive secrets to avoid complete commercial failure](http://gdcvault.com/play/1023776/Stop-Shooting-Yourself-in-the) 📺.
-* [How to show your indie game at any expo](http://www.laurabularca.com/2016/09/show-indie-game-expo/).
 * [How to survive in gamedev for eleven years without a hit](https://www.youtube.com/watch?v=JmwbYl6f11c) 📺.
 * [Big list of Steam indie publishers (50+ companies)](https://docs.google.com/spreadsheets/d/1envgysmy1jRSPGimAXMhWcKQrdxG7eFK9YdBruJzhWw/edit#gid=0).
 * [How to sell your premium indie game](http://headlampstudios.com/how-to-sell-your-indie-game/).
@@ -1300,7 +1245,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Five reasons to trademark your video game today](http://www.gamasutra.com/blogs/StephenMcArthur/20150917/252626/Five_Reasons_to_Trademark_Your_Video_Game_Today.php).
 * [Free agreement generator for game developers](http://docontract.com/).
 * [Legal and accounting basics for startups](https://www.youtube.com/watch?v=EHzvmyMJEK4) 📺.
-* [Video game law guide](http://morrisonlee.com/2014/10/04/video-game-law-guide/).
 * [A game lawyer](http://www.strebecklaw.com/).
 * [Why you should always register the trademark on your Kickstarter game](http://www.gamasutra.com/blogs/StephenMcArthur/20160504/271940/Why_You_Should_Always_Register_the_Trademark_on_your_Kickstarter_Game.php).
 * [Practical law 101 for indie developers: Not scary edition](https://www.youtube.com/watch?v=8eAW-7Js7NA) 📺.
@@ -1312,7 +1256,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 
 ## **Hardware**
 
-* [Unity hardware statistics](http://hwstats.unity3d.com/index.html).
 * [Valve hardware statistics](http://store.steampowered.com/hwsurvey).
 
 <br>
