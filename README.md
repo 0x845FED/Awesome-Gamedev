@@ -2,6 +2,7 @@
 	<img src="images/banner.png"/>
 	<br><br>
 	<a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Gamedev"/></a>
+	<a href="http://github.com/FronkonGames/Awesome-Gamedev/actions?workflow=Check+Links"><img src="https://github.com/carlosperate/awesome-microbit/workflows/Check%20Links/badge.svg" alt="Check Links"/></a>
 </p>
 
 A curated collection of resources to gamedev. To add, remove or change things on the list, please create a pull request. Maintained by [FronkonGames](https://github.com/FronkonGames).
