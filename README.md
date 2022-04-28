@@ -570,7 +570,6 @@ A curated collection of resources to gamedev. To add, remove or change things on
 * [Procedurally generated 3D dungeons](https://www.youtube.com/watch?v=rBY2Dzej03A) 📺.
 * [Create an installer for your game](https://jeannoelseneque.medium.com/create-an-installer-for-your-game-aec453848b13).
 * [Introduction to Game Programming (C++)](https://www.youtube.com/watch?v=LpEdZbUdDe4&list=PL_xRyXins848jkwC9Coy7B4N5XTOnQZzz) 📺.
-* [A curated list of awesome tips and tricks and resources in .net world](https://github.com/meysamhadeli/awesome-dotnet-tips).
 * [Building a better jump with math](https://www.youtube.com/watch?v=hG9SzQxaCm8) 📺.
 * [Semantic Versioning, a set of rules to standardize software versions](https://medium.com/@ahmetyasinburul/set-of-rules-to-standarize-software-versions-semantic-versioning-b7f71f71851e).
 * [You might be thinking about shader performance wrong](https://youtube.com/watch?v=7YPPFIqUN84) 📺.
