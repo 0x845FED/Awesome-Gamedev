@@ -1,4 +1,4 @@
-name: Checking links
+name: Check Links
 
 on:
   push:
