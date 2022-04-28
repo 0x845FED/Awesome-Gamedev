@@ -2,9 +2,10 @@ name: Check Links
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   pull_request:
     types: [opened, synchronize]
+  workflow_dispatch:
 
 jobs:
   checking-links:
