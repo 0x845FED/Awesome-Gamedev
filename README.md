@@ -31,7 +31,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * [🔬 Testing](#testing)
 * [🤔 Misc](#misc)
 * [😄 Fun](#fun)
-
 <br>
 
 ## **Art**
@@ -188,7 +187,9 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * [From start to finish: bringing characters to life](https://medium.com/@sigono/from-start-to-finish-bringing-characters-to-life-in-opus-echo-of-starsong-1d9d8a7b256b).
 * [UX designer role in a gamedev project](https://medium.com/@ilyakanatov/ux-designer-role-in-a-gamedev-project-2022-7c42950b8b20).
 * [Growing as a VFX artist](https://www.youtube.com/watch?v=j9PVr8YKp_E) 📺.
-<p align="right">**[⬆ back to top](#Contents)**</p>
+<p align="right">
+**[⬆ back to top](#Contents)**
+</p>
 <br>
 
 ## **Design**
