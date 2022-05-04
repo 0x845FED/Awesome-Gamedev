@@ -563,7 +563,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * [Data Flow in game development, or how to avoid spaghetti code](https://medium.com/@zacharybuffone/data-flow-in-game-development-or-how-to-avoid-spaghetti-code-81dc2bf16e98).
 * [How to make a game engine in C++](https://www.youtube.com/watch?v=vWU8EltWTfM&list=PLlrATfBNZ98fqE45g3jZA_hLGUrD4bo6_) 📺.
 * [Create a server for your Unity game using .NET core](https://www.youtube.com/watch?v=jLy7A702GhA) 📺.
-* [Curated list of awesome tips and tricks, resources, videos and articles in .net](https://github.com/meysamhadeli/awesome-dotnet-tips).
 * [Designing a Distributed System for an Online Multiplayer Game](https://theredrad.medium.com/designing-a-distributed-system-for-an-online-multiplayer-game-basics-part-1-17c149245bd2).
 * [Game engine architecture](https://isetta.io/blogs/engine-architecture/).
 * [A simple guide to .NET memory management](https://medium.com/@andresantarosa/heap-stack-e-garbage-collector-a-practical-guide-to-net-memory-management-system-7e60bbadf199).
