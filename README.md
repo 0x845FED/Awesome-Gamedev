@@ -187,6 +187,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * [From start to finish: bringing characters to life](https://medium.com/@sigono/from-start-to-finish-bringing-characters-to-life-in-opus-echo-of-starsong-1d9d8a7b256b).
 * [UX designer role in a gamedev project](https://medium.com/@ilyakanatov/ux-designer-role-in-a-gamedev-project-2022-7c42950b8b20).
 * [Growing as a VFX artist](https://www.youtube.com/watch?v=j9PVr8YKp_E) 📺.
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
@@ -372,6 +373,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * [Game design analysis and principles](https://www.youtube.com/watch?v=kmgAFmTSFRs) 📺.
 * [Tips and Tricks for better level setup in Unity](https://youtube.com/watch?v=bZEJ3nZe9J4) 📺.
 * [Celeste & Forgiveness](https://maddythorson.medium.com/celeste-forgiveness-31e4a40399f1).
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
@@ -565,6 +567,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * [Designing a Distributed System for an Online Multiplayer Game](https://theredrad.medium.com/designing-a-distributed-system-for-an-online-multiplayer-game-basics-part-1-17c149245bd2).
 * [Game engine architecture](https://isetta.io/blogs/engine-architecture/).
 * [A simple guide to .NET memory management](https://medium.com/@andresantarosa/heap-stack-e-garbage-collector-a-practical-guide-to-net-memory-management-system-7e60bbadf199).
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
@@ -609,6 +612,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * [How to achieve a great game audio in indie games](https://blog.gladiogames.com/all-posts/how-to-achieve-a-great-game-audio-in-indie-games).
 * [Sound design complete: great tutorial compilation](https://www.youtube.com/watch?v=jWorjBDcty4) 📺.
 * [How to make sound effects for games](https://youtu.be/LgxOcZDor8U) 📺.
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
@@ -673,6 +677,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * [69 useful tools for game development](https://www.youtube.com/watch?v=o6ao9-UIZIQ).
 * [How to make games in Unity without an art team](https://www.youtube.com/watch?v=M9uNopd28O4) 📺.
 * [The quirks of creating an indie game with a one man army, and how it’s possible](https://medium.com/@petitlegume/the-quirks-of-creating-an-indie-game-with-a-one-man-army-and-how-its-possible-2eca32f5fd23).
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
@@ -830,6 +835,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * [Melee RPG combat using FSM and Input System](https://youtu.be/uGFzWM1sJjU) 📺.
 * [Procedural animation spider in Unity](https://www.youtube.com/watch?v=EdjAYrssxDM) 📺.
 * [How to improve a games performance to "perfection"](https://www.youtube.com/watch?v=v5_RN8o1b3g) 📺.
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
@@ -869,6 +875,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * [The basics of using the Material Editor in the Unreal Engine 4](https://www.youtube.com/playlist?list=PL78XDi0TS4lFlOVKsNC6LR4sCQhetKJqs) 📺.
 * [Unreal Engine 5, beginner's tutorial with Blueprints](https://www.youtube.com/watch?v=xl5fqr-CpTY) 📺.
 * [Exploring Lyra](https://www.youtube.com/watch?v=xy2J-KnuzQs) 📺.
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
@@ -898,6 +905,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * [Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.](https://github.com/bkaradzic/bgfx).
 * [Diligent](https://github.com/DiligentGraphics/DiligentEngine), a modern cross-platform 3D graphics library.
 * [List of 2D indie games](https://docs.google.com/spreadsheets/d/1z1RV6w4HjPODFcao34h72Vw-9KxtQ9rv0ZM7folTUMU).
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
@@ -952,6 +960,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * ["Let's Build a Zoo" launch week sales](https://threadreaderapp.com/thread/1459171466063327234.html).
 * [Development costs and first 6 months of sales: from Game Jam to Steam for Easter 2021](https://youtu.be/-EEwd7YNf8c) 📺.
 * [Three years of Astroneer, by the numbers](https://medium.com/@SystemEra/three-years-of-astroneer-by-the-numbers-589282826ee1).
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
@@ -964,6 +973,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * [Search domains and generate a beautiful, responsive, free website](http://launchaco.com/).
 * [From sabbatical year to $800k](https://failory.com/battle-scars).
 * [Did I just waste 3 years?](https://infinitroid.com/blog/posts/did_i_just_waste_3_years).
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
@@ -1016,6 +1026,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * [10 great websites for game developers](https://void1gaming.medium.com/10-great-websites-for-game-developers-4d2f7af6475b).
 * [Lux Materium, free CC0 photogrammetry assets](https://www.luxmaterium.com/).
 * [All music on this website can be downloaded and used for any of your projects](https://getyourfreemusichere.com/).
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
@@ -1032,6 +1043,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * [A procedural tile creator designed for pixel-art games](https://led.itch.io/tilemancer).
 * [Storyboarder, a free, cross-platform storyboard tool](https://wonderunit.com/storyboarder/).
 * [Placeholder texture generator](https://wahooney.itch.io/texture-grid-generator).
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
@@ -1039,6 +1051,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 
 * [hashtagify.me](http://hashtagify.me/), hashtags popularity.
 * [mention.com](https://mention.com), who is talking about you?.
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
@@ -1145,6 +1158,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * [This might be the Best Way to market an Indie Game](https://www.youtube.com/watch?v=pNd0k9j6TXo).
 * [How to Benchmark a video game?](https://tavrox.medium.com/tutorial-how-to-benchmark-my-video-game-59b68a3e28b9).
 * [Top game trailer mistakes and how to fix them](https://www.youtube.com/watch?v=fFSNJ_Hsfx0) 📺.
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
@@ -1215,6 +1229,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * [How to become sustainable and grow as an indie game developer](https://medium.com/toge-productions/how-to-become-sustainable-and-grow-as-an-indie-game-developer-c6d301be55c2).
 * [How to calculate real promotion or sale revenue in free to play game](https://medium.com/@slavsenkiv/how-to-calculate-real-promotion-or-sale-revenue-in-free-to-play-game-part-1-b9bced403ed2).
 * [How to consistently make profitable Indie Games](https://www.youtube.com/watch?v=LlAc5sBtGkc) 📺.
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
@@ -1231,6 +1246,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * [Find voice actors on any budget, from free, all the way up to Union talent](http://www.tamararyanvo.com/news/2017/3/1/how-to-find-voice-actors-for-my-game).
 * [Get free games translating other games](https://www.localizor.io/).
 * [A step-by-step guide to game localization](https://www.gamedev.net/tutorials/business/production-and-management/a-step-by-step-guide-to-game-localization-r5627/).
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
@@ -1246,12 +1262,14 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * [Negotiations for game aevs: a practical guide](https://indiewatch.net/2016/09/06/negotiations-for-game-devs-a-practical-guide-part-1/).
 * [Practical IP law for indie developers 301: Plain scary edition](https://youtu.be/ePQcAjuiSEo) 📺.
 * [Top 5 ways to protect your intellectual property](https://homagames.com/top-5-ways-to-protect-your-intellectual-property/).
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
 ## **Hardware**
 
 * [Valve hardware statistics](http://store.steampowered.com/hwsurvey).
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
@@ -1264,6 +1282,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * [Automated testing League Of Legends](https://engineering.riotgames.com/news/automated-testing-league-legends).
 * [Increasing the chance of store featuring with compliance](https://medium.com/flaregames-blog/increasing-the-chance-of-store-featuring-with-compliance-e03a95deda3d).
 * [Scalability and load testing for Valorant](https://technology.riotgames.com/news/scalability-and-load-testing-valorant).
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
@@ -1281,11 +1300,13 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * [Cherry pick playlist for programmers](https://sudo.fm/).
 * [Global game developer salaries, 2020](https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA).
 * [Great books for aspiring Game Developers](https://80.lv/articles/80-level-ratings-great-books-for-aspiring-game-developers/]).
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
 ## 😄 **Fun**
 
 * [Ideas for games, one a day (powered by Machine Learning)](https://twitter.com/OneGameIdeaADa1).
+
 **[⬆ back to top ⬆](#Contents)**
 <br>
